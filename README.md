@@ -6,8 +6,7 @@ Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El c
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-
-DESCRIPCIÓN DEL CURSO
+Descubre cómo utilizar PySpark para tus necesidades de procesamiento y análisis de datos. En este curso, dirigido a quienes se dedican a la programación, análisis de datos, ingeniería de datos y ciencia de datos, aprenderás a resolver problemas específicos con PySpark. El contenido está organizado en tres módulos esenciales: operaciones básicas, transformaciones y acciones, y manipulación de datos. Cada módulo está diseñado para proporcionar habilidades prácticas y aplicables en el mundo real. Aprovecha esta oportunidad para mejorar tu capacidad de manejar grandes volúmenes de datos de manera eficiente y efectiva con PySpark.
 
 ## Instrucciones
 
@@ -34,6 +33,6 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQGBGaV1G5CbJg/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1733236165427?e=2147483647&v=beta&t=x7wbkn3sRRvONlSdBnGqbsHiHbBxboBGJBkK1gM0hOE
 
 [1]: # (End of ES-Instruction ###############################################################################################)
